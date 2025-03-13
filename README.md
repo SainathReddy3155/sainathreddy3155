@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sainath Reddy</h1>
-<h3 align="center">I am a full-stack software developer with two years of experience in the healthcare domain. My expertise spans frontend and backend technologies, including HTML, CSS, JavaScript, Python, SQL, and AWS. I also have hands-on experience with Selenium for automation testing. Currently, I am enhancing my skills by learning React Redux and Django to build more efficient and scalable applications. As I continue to grow in my career, I am actively seeking new opportunities where I can leverage my experience and newly acquired skills to contribute effectively to a dynamic team.</h3>
+<h3 align="center">I am a full-stack software developer . My expertise spans frontend and backend technologies, including HTML, CSS, JavaScript, Python, SQL, and AWS. I also have hands-on experience with Selenium for automation testing. Currently, I am enhancing my skills by learning React Redux and Django to build more efficient and scalable applications. As I continue to grow in my career, I am actively seeking new opportunities where I can leverage my experience and newly acquired skills to contribute effectively to a dynamic team.</h3>
 
 - 🔭 I’m currently working on **Django and React Application**
 
