@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Django**
 
-- 👨‍💻 All of my projects are available at [https://sainathreddy3155.github.io/Portfolio/](https://sainathreddy3155.github.io/Portfolio/)
-
 - 💬 Ask me about **Web Scraping,Selenium,Flask,Python**
 
 - 📫 How to reach me **reddy.sainath3155@gmail.com**
